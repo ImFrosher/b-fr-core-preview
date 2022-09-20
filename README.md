@@ -1,5 +1,5 @@
 # b-fr-core
-b-fr-core is a plugin for multiplayer modification for GTA V - FiveM
+b-fr-core is a plugin for multiplayer modification of GTA V - FiveM
 
 # Description
 It's an early stage of development of b-fr-core (bug-free version as of 9/20/2022). Code is not optimized and pretty as I want it to be.
